@@ -1,0 +1,2 @@
+#root{flex-direction:column}#root,.tile{align-items:center;display:flex}.tile{background-color:bisque;border:2px solid #000;border-radius:16px}.board,.tile{justify-content:center}.board{grid-gap:4px;background-color:grey;display:grid;grid-template-columns:125px 125px 125px;grid-template-rows:125px 125px 125px;width:100%}.result{font-size:x-large}.winner{font-weight:700}.resetButton{background-color:#a2ccb6;border:none;font-size:x-large}.resetButton:hover{background-color:#b0c4de}
+/*# sourceMappingURL=main.7dc28256.css.map*/
