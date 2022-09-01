@@ -1,0 +1,9 @@
+.board{
+    background-color: grey;
+    width: 100%;
+    display: grid;
+    grid-template-columns: 125px 125px 125px;
+    grid-template-rows: 125px 125px 125px;
+    justify-content: center;
+    grid-gap: 4px;
+}

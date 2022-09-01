@@ -1,0 +1,9 @@
+.resetButton {
+    background-color: #a2ccb6;
+    font-size: x-large;
+    border: none;
+}
+
+.resetButton:hover {
+    background-color: lightsteelblue;
+}
